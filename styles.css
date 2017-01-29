@@ -1,0 +1,17 @@
+.hangman{
+  position: relative;
+  text-align: center;
+}
+
+.letters{
+  position: relative;
+  color: blue;
+  text-align: center;
+}
+
+.guess{
+  position: relative;
+  color: red;
+ text-align: center;
+ padding-top: 20px;
+}
